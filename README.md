@@ -1,5 +1,5 @@
 # tg1229-Digital-Resume
-Short resume about me, tg1229.
+Created Bio for README.
 
 
 ## Bio
