@@ -1,5 +1,5 @@
 # tg1229-Digital-Resume
-Created Bio for README.
+Resume for Tanner Graham (tg1229)
 
 
 ## Bio
